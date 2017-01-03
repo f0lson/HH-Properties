@@ -1,0 +1,24 @@
+body {
+    padding-top: 50px;
+}
+
+.jumbotron {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    text-align: center;
+    background: #ddd;
+    background-size: cover;
+    color: #fff;
+}
+
+.btn-jumbotron {
+    border: 1px solid #fff;
+    border-radius: 3px;
+    color: #fff;
+    transition: 250ms all ease-in-out;
+}
+
+.btn-jumbotron:hover {
+    color: navy;
+    border-color: navy;
+}
